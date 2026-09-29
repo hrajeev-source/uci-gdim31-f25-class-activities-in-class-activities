@@ -2,6 +2,8 @@
 ## Devlogs
 ### W1
 Write your W1 activity Devlog here.
+1. When I move the camera out of the Cat Object the camera stays in the same place while the cat moves around. This happpens because, the camera is no longer a child of the cat so it is no longer one with the cat and acts as a separate object.
+2. https://hrajeev.itch.io/week-1-activity 
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
