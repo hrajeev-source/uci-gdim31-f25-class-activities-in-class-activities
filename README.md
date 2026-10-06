@@ -7,6 +7,9 @@ Write your W1 activity Devlog here.
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+1. They are floats because the color wheel supports decimal values so in order to store those decimal values we need to write float.
+2. The _bounce variable is an int becuase, the amount of times the ball bounces would be a whole number instead of decimals.
+3. It told us that the statement of code was incomplete so in order to complete the line of code we had to add a semicolon so the code compiles.
 
 ## Open-Source Assets
 ### W1
