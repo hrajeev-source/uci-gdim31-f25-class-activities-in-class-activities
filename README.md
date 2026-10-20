@@ -19,6 +19,10 @@ Activity 1
 Activity 2
 1. The spellbook is our classes that we use as the basis to cast spell, the spells are the components, and the casters are the member variables.
 
+### W4
+1. We added rigid bodies to the game objects Cat and SoccerBall. We added the isTrigger for the Goal because, the goal post has an action triggered when the soccer ball goes through the goal. So it has to be a non solid object (is Trigger) in order to do that.
+2. We had to fix the freeze rotations for the ball and the cat because when it moved the cat flew out of the bounds and rotated constantly. We had to add specific positions so it stays in place.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
