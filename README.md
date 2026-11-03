@@ -23,6 +23,14 @@ Activity 2
 1. We added rigid bodies to the game objects Cat and SoccerBall. We added the isTrigger for the Goal because, the goal post has an action triggered when the soccer ball goes through the goal. So it has to be a non solid object (is Trigger) in order to do that.
 2. We had to fix the freeze rotations for the ball and the cat because when it moved the cat flew out of the bounds and rotated constantly. We had to add specific positions so it stays in place.
 
+### W5
+Activity 1
+- To understand the Deer W5 script, we need to look at Cat script from last week since the code is quite similar (copy paste the code from that)
+- It might also help to look at the minigame from last week (the fish code) to help with movement (the key movements)
+- The member variables that this class needs is NavMeshAgent and Transform.
+- The methods that this class needs is the Start() and Update() to initialize the game and update the movements of the animals by each frame.
+  
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
