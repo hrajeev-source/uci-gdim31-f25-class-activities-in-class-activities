@@ -29,7 +29,14 @@ Activity 1
 - It might also help to look at the minigame from last week (the fish code) to help with movement (the key movements)
 - The member variables that this class needs is NavMeshAgent and Transform.
 - The methods that this class needs is the Start() and Update() to initialize the game and update the movements of the animals by each frame.
-  
+### W6
+Activity 1
+https://docs.google.com/document/d/1ZtUXbaq48lSscmZFjwwkLhq-6Y2Undi4IIagxdTtJH4/edit?tab=t.0
+Activity 2
+- We are planning on using the bird manager code from the minigame to help with the code for class
+- The methods that we are p;aning to use so sar are Start(),RunTo,Update()
+- The member variables I defined in the bat class was speed,animator,directions
+- The methods should control the start of the game (Start()), how the bats run to the player (Runto), it runs the animation every frame (Update())
 
 ## Open-Source Assets
 ### W1
