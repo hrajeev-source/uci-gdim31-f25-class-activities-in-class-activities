@@ -32,6 +32,7 @@ Activity 1
 ### W6
 Activity 1
 https://docs.google.com/document/d/1ZtUXbaq48lSscmZFjwwkLhq-6Y2Undi4IIagxdTtJH4/edit?tab=t.0
+
 Activity 2
 - We are planning on using the bird manager code from the minigame to help with the code for class
 - The methods that we are p;aning to use so sar are Start(),RunTo,Update()
