@@ -39,6 +39,10 @@ Activity 2
 - The member variables I defined in the bat class was speed,animator,directions
 - The methods should control the start of the game (Start()), how the bats run to the player (Runto), it runs the animation every frame (Update())
 
+### W7
+Part 2
+In step 2, something that it wrong with the code is how there wasnt a set method. Before the code just had transform which didnt really do anything but changing it to transform.Translate moves the gameobject to a given direction which in this case is forward and backward.
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
