@@ -41,6 +41,7 @@ Activity 2
 
 ### W7
 Part 2
+
 In step 2, something that it wrong with the code is how there wasnt a set method. Before the code just had transform which didnt really do anything but changing it to transform.Translate moves the gameobject to a given direction which in this case is forward and backward.
 
 ## Open-Source Assets
