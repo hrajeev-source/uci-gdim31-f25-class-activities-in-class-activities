@@ -44,6 +44,16 @@ Part 2
 
 In step 2, something that it wrong with the code is how there wasnt a set method. Before the code just had transform which didnt really do anything but changing it to transform.Translate moves the gameobject to a given direction which in this case is forward and backward.
 
+### W9
+Activity 1
+https://docs.google.com/document/d/1-g1lhZz1Otd_oiuh1RkYctNiJBu-UosuYqm0xxmPYbM/edit?usp=sharing (Section: 2D Table 3)
+
+Activity 2
+- I planned out the aspects of the 2D game through a bubble map so I feel more confident in the next steps to take when coding it
+- I also talked about the possible environment of the game and how I could make it my own as well as how to approach it in Unity
+- I forked and cloned the repo and the project exists on Unity
+- I figured out references to use for the game when I get stuck (previous minigames, dictionary for unity words)
+
 ## Open-Source Assets
 ### W1
 - Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727 
